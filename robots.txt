@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://knaaaaack.github.io/crichardt.com-travel/sitemap.xml

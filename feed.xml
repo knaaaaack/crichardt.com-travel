@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>crichardt.com/travel</title>
+    <link href="https://knaaaaack.github.io/crichardt.com-travel/feed.xml" rel="self" />
+    <link href="https://knaaaaack.github.io/crichardt.com-travel" />
+    <updated>2022-02-28T11:11:53+01:00</updated>
+    <author>
+        <name>Clemens Richardt</name>
+    </author>
+    <id>https://knaaaaack.github.io/crichardt.com-travel</id>
+
+    <entry>
+        <title>Vanlife</title>
+        <author>
+            <name>Clemens Richardt</name>
+        </author>
+        <link href="https://knaaaaack.github.io/crichardt.com-travel/vanlife/"/>
+        <id>https://knaaaaack.github.io/crichardt.com-travel/vanlife/</id>
+            <category term="Vanlife"/>
+
+        <updated>2022-02-28T11:11:53+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://knaaaaack.github.io/crichardt.com-travel/media/posts/7/IMGP6790.jpg" alt="Wasserfall" />
+                <p class="dropcap">In dieser Rubrik werden wir euch nach Lust und Laune über die Besonderheiten des Vanlife berichten. Wenn wir Lust haben, zeigen wir euch in dieser Kategorie auch die Besonderheiten unseres Fahrzeugs, der Frida. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Track us</title>
+        <author>
+            <name>Clemens Richardt</name>
+        </author>
+        <link href="https://knaaaaack.github.io/crichardt.com-travel/track-us/"/>
+        <id>https://knaaaaack.github.io/crichardt.com-travel/track-us/</id>
+            <category term="Reiseberichte"/>
+
+        <updated>2022-02-28T10:59:23+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://knaaaaack.github.io/crichardt.com-travel/media/posts/5/IMGP6086-32.jpg" alt="" />
+                <p class="dropcap"> </p>
+<blockquote>
+<p class="align-center"><span style="color: #007d7d;">21 Länder in weniger als 8 Monaten - 16.000 Kilometer, so zumindest der Plan.</span></p>
+</blockquote>
+<div class="post__iframe"><iframe loading="lazy" width="640" height="480" src="https://www.google.com/maps/d/embed?mid=1-EitYQ2uf_Iy5gLcdA0Fsy-CyJMZTWBF&amp;ehbc=2E312F"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>2019 Banff &amp; Co.</title>
+        <author>
+            <name>Clemens Richardt</name>
+        </author>
+        <link href="https://knaaaaack.github.io/crichardt.com-travel/banff-and-co/"/>
+        <id>https://knaaaaack.github.io/crichardt.com-travel/banff-and-co/</id>
+            <category term="Landschaften &amp; Natur"/>
+
+        <updated>2022-02-28T10:06:00+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/IMGP2778.jpg" alt="Banff Nationalpark" />
+                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="5">
+<figure class="gallery__item"><a href="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3069.jpg" data-size="7360x4912"><img loading="lazy" src="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3069-thumbnail.jpg" alt="See in Kanada" width="720" height="481"></a></figure>
+<figure class="gallery__item"><a href="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3474.jpg" data-size="4907x7360"><img loading="lazy" src="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3474-thumbnail.jpg" alt="Wasserfall" width="720" height="1080"></a></figure>
+<figure class="gallery__item"><a href="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP2894.jpg" data-size="4912x7360"><img loading="lazy" src="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP2894-thumbnail.jpg" alt="Wasserfall" width="720" height="1079"></a></figure>
+<figure class="gallery__item"><a href="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3206.jpg" data-size="4912x7360"><img loading="lazy" src="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3206-thumbnail.jpg" alt="Wasserfall" width="720" height="1079"></a></figure>
+<figure class="gallery__item"><a href="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3099.jpg" data-size="7360x4912"><img loading="lazy" src="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3099-thumbnail.jpg" alt="See in Kanada" width="720" height="481"></a></figure>
+<figure class="gallery__item"><a href="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP2745.jpg" data-size="7360x4912"><img loading="lazy" src="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP2745-thumbnail.jpg" alt="See in Kanada" width="720" height="481"></a></figure>
+<figure class="gallery__item"><a href="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3196.jpg" data-size="7360x4912"><img loading="lazy" src="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3196-thumbnail.jpg" alt="Blumen auf Steinen" width="720" height="481"></a></figure>
+<figure class="gallery__item"><a href="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3257.jpg" data-size="7283x4861"><img loading="lazy" src="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3257-thumbnail.jpg" alt="See in Kanada" width="720" height="481"></a></figure>
+<figure class="gallery__item"><a href="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3321.jpg" data-size="7251x4839"><img loading="lazy" src="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3321-thumbnail.jpg" alt="Bank am See" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3343.jpg" data-size="7360x4912"><img loading="lazy" src="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3343-thumbnail.jpg" alt="See in Kanada" width="720" height="481"></a></figure>
+<figure class="gallery__item"><a href="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3372.jpg" data-size="7360x4912"><img loading="lazy" src="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3372-thumbnail.jpg" alt="Wasserfall" width="720" height="481"></a></figure>
+<figure class="gallery__item"><a href="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3414.jpg" data-size="7360x4912"><img loading="lazy" src="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3414-thumbnail.jpg" alt="Baumrinde" width="720" height="481"></a></figure>
+<figure class="gallery__item"><a href="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3191.jpg" data-size="7360x4912"><img loading="lazy" src="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3191-thumbnail.jpg" alt="Steinturm beim Gletscher" width="720" height="481"></a></figure>
+<figure class="gallery__item"><a href="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3233.jpg" data-size="7360x4912"><img loading="lazy" src="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3233-thumbnail.jpg" alt="Fluss in Kanada" width="720" height="481"></a></figure>
+<figure class="gallery__item"><a href="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3303.jpg" data-size="7272x4853"><img loading="lazy" src="https://knaaaaack.github.io/crichardt.com-travel/media/posts/4/gallery/IMGP3303-thumbnail.jpg" alt="See in Kanada" width="720" height="480"></a></figure>
+</div></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
