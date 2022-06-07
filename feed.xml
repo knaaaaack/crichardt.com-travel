@@ -3,7 +3,7 @@
     <title>travel.crichardt.com</title>
     <link href="https://travel.crichardt.com/feed.xml" rel="self" />
     <link href="https://travel.crichardt.com" />
-    <updated>2022-06-08T00:15:48+02:00</updated>
+    <updated>2022-06-08T01:09:01+02:00</updated>
     <author>
         <name>Clemens Richardt</name>
     </author>
@@ -397,7 +397,7 @@
         </content>
     </entry>
     <entry>
-        <title>b10. Woche</title>
+        <title>10. Woche</title>
         <author>
             <name>Clemens Richardt</name>
         </author>
@@ -405,7 +405,7 @@
         <id>https://travel.crichardt.com/10-woche/</id>
             <category term="Reiseberichte"/>
 
-        <updated>2022-06-07T21:40:07+02:00</updated>
+        <updated>2022-06-08T01:09:01+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
