@@ -107,7 +107,7 @@
     {
         "path": "/19-woche/index.html",
         "type": "file",
-        "md5": "66b936af03726f7dcb61bef6de959660"
+        "md5": "ad4b1e9edb063fed38ed993d7bee330b"
     },
     {
         "path": "2-woche",
@@ -302,7 +302,7 @@
     {
         "path": "/authors/clemens-richardt/index.html",
         "type": "file",
-        "md5": "012af523681d7dee22610769b11664f6"
+        "md5": "5ddd59e02e1ed8bfa96ab33b096c8707"
     },
     {
         "path": "authors/clemens-richardt/page",
@@ -317,7 +317,7 @@
     {
         "path": "/authors/clemens-richardt/page/2/index.html",
         "type": "file",
-        "md5": "e452d808cdb43e1a15daf5f4795b9dd4"
+        "md5": "16093ffbbf1c419ac051343f3406e5bd"
     },
     {
         "path": "authors/clemens-richardt/page/3",
@@ -327,7 +327,7 @@
     {
         "path": "/authors/clemens-richardt/page/3/index.html",
         "type": "file",
-        "md5": "30fa173b5e945236e031e2e39c940547"
+        "md5": "120acdb08d3a41c75625f74a6e3a079c"
     },
     {
         "path": "authors/clemens-richardt/page/4",
@@ -337,7 +337,7 @@
     {
         "path": "/authors/clemens-richardt/page/4/index.html",
         "type": "file",
-        "md5": "4f4d6d1a5ba75765c01469a735377536"
+        "md5": "c442b1f2656bfd5c3800c80195afcc0b"
     },
     {
         "path": "authors/michelle",
@@ -382,12 +382,22 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "8692a1015e205534650375f49941ce10"
+        "md5": "4355037934177f51b8569515fbdda5d6"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "8fd2d6d7fb3fed54cc82f1f9702e8809"
+        "md5": "a3874dc767c901d451250fef5319e913"
+    },
+    {
+        "path": "frida",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/frida/index.html",
+        "type": "file",
+        "md5": "a1d70fa6a9ef8e5d24bba2b4b93a0a8a"
     },
     {
         "path": "impressum",
@@ -402,7 +412,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "0d9eac960fb6b5e682c4c7e64184c00e"
+        "md5": "91b7199702c36f4a63b84312cd185144"
     },
     {
         "path": "media",
@@ -7783,6 +7793,256 @@
         "path": "/media/posts/18/responsive/Algarve-Problematik-xxxl.jpg",
         "type": "file",
         "md5": "70970cefd04f9a8a39d741d0cddf15dd"
+    },
+    {
+        "path": "media/posts/19",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/19/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_3566-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "efcb7f1d70bdb72d9cca9a68c517078d"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_3566-crichardt.com.jpg",
+        "type": "file",
+        "md5": "3cc50146704001801071ff42379a24b9"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_3568-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "2f3605b07320d6afda53c5fee830b753"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_3568-crichardt.com.jpg",
+        "type": "file",
+        "md5": "c4bfbfc3bbb81fdb96324aa98433e213"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_3570-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "5a256420cf19be8479b73fffd96cce36"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_3570-crichardt.com.jpg",
+        "type": "file",
+        "md5": "03ffd5ae4ffa4925d09911ba835eccc6"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_3571-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "0b666180ff0f2057688eab3252050cb2"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_3571-crichardt.com.jpg",
+        "type": "file",
+        "md5": "640f7299685b53c48c30506cccb8e636"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_3572-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "a993be64416bc10788eab83ff9854a4f"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_3572-crichardt.com.jpg",
+        "type": "file",
+        "md5": "bf9da7435b9b2e686bc5457921dd14d5"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_3575-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "42ce769a5d33b3ceebed837fadfb93db"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_3575-crichardt.com.jpg",
+        "type": "file",
+        "md5": "d04f522e803effcb5c5062ace54833ac"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_4739-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "c5c834aaa7285af3804e77687e678131"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_4739-crichardt.com.jpg",
+        "type": "file",
+        "md5": "f2bd147e14a4c2d16ddf2e8bb7b7821d"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_4741-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "69abc09d0a2c0637205963ab0e131637"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_4741-crichardt.com.jpg",
+        "type": "file",
+        "md5": "6a4745769aee1de90f890733c19932ea"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_4748-crichardt.com-2-thumbnail.jpg",
+        "type": "file",
+        "md5": "076b9a5ee82e354fc902d90048686f11"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_4748-crichardt.com-2.jpg",
+        "type": "file",
+        "md5": "ae5fbf5255371c8d56a33fbf9ba729ef"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_4749-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "18d52f4c6a0016942521a6728836b624"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_4749-crichardt.com.jpg",
+        "type": "file",
+        "md5": "6c9e8938241e08df5e3a3517cdea1093"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_4750-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "4d93774993fbc446d2aaa661e3411628"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_4750-crichardt.com.jpg",
+        "type": "file",
+        "md5": "533a923f05cf3ad6b4aba18ab70ac72e"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_4753-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "99cd1e16ec378fb4bca7452e72367c91"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_4753-crichardt.com.jpg",
+        "type": "file",
+        "md5": "b992e31c41dd21f81f98c691e99f8c8b"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_5313-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "3e8a57a8f6a2018eb86bff81856e1f90"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_5313-crichardt.com.jpg",
+        "type": "file",
+        "md5": "1a475449bfdc30c60c053bc14a012525"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_5319-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "30390b168431d8225b0577ec62d7729d"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_5319-crichardt.com.jpg",
+        "type": "file",
+        "md5": "06c6ee0041c775aa84ec4af85f5e49ec"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_5320-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "9841d7db77125e0482c25ba87f9f7e27"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_5320-crichardt.com.jpg",
+        "type": "file",
+        "md5": "01dcaf2e7e94f3c9ab86b1533c0468e9"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_5321-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "8c3489926caf8f2e06d3855239110f05"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_5321-crichardt.com.jpg",
+        "type": "file",
+        "md5": "8b5cf422666b089c2f9684190c0f0cd5"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_5323-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "0187b032067a16215b9831db0579a081"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_5323-crichardt.com.jpg",
+        "type": "file",
+        "md5": "996ad3200c997bda5c06c2aaf07ff04d"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_5325-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "232dc8f1bf5dcbd7c61ad34f81d200d6"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_5325-crichardt.com.jpg",
+        "type": "file",
+        "md5": "2eb26da47edfa0621f99d7f0c28346bc"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_5329-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "ac5743df5c943b39952f11419bf72525"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_5329-crichardt.com.jpg",
+        "type": "file",
+        "md5": "9b862e1a0c4e06bf8bfd9d435437319d"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_5643-crichardt.com-thumbnail.jpg",
+        "type": "file",
+        "md5": "c12ebd91c937938c9db384768cc89fec"
+    },
+    {
+        "path": "/media/posts/19/gallery/IMG_5643-crichardt.com.jpg",
+        "type": "file",
+        "md5": "761a42f5a4f1af15753403a9f7c41389"
+    },
+    {
+        "path": "/media/posts/19/IMGP0903-crichardt.com.jpg",
+        "type": "file",
+        "md5": "da3e13a485a0905107716d62fe1a0851"
+    },
+    {
+        "path": "media/posts/19/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/19/responsive/IMGP0903-crichardt.com-md.jpg",
+        "type": "file",
+        "md5": "bbfb59a7acf496d2f67a800f038494bc"
+    },
+    {
+        "path": "/media/posts/19/responsive/IMGP0903-crichardt.com-sm.jpg",
+        "type": "file",
+        "md5": "6f20ce28e19eda04f8f26b40c09d3aaf"
+    },
+    {
+        "path": "/media/posts/19/responsive/IMGP0903-crichardt.com-xl.jpg",
+        "type": "file",
+        "md5": "e5b1c3b0ac0d3819df17291c32de6613"
+    },
+    {
+        "path": "/media/posts/19/responsive/IMGP0903-crichardt.com-xs.jpg",
+        "type": "file",
+        "md5": "bc36bc9e6b05417b0e5d1413c5e7f340"
+    },
+    {
+        "path": "/media/posts/19/responsive/IMGP0903-crichardt.com-xxl.jpg",
+        "type": "file",
+        "md5": "62b17ca7aa2b88a8296f5e86a5d7d6c6"
+    },
+    {
+        "path": "/media/posts/19/responsive/IMGP0903-crichardt.com-xxxl.jpg",
+        "type": "file",
+        "md5": "bcdee453bba8c26918b5952dba2130e5"
     },
     {
         "path": "media/posts/20",
@@ -18557,7 +18817,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "1390d885e3a52ad5ffc3cc05ef7d1dc7"
+        "md5": "195b145ce9cc1a3957226ace22f259f0"
     },
     {
         "path": "page/3",
@@ -18567,7 +18827,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "6d42709d4f8142ccdd6ac59a13abc597"
+        "md5": "bda48a03898b10d57e4a8a21bcfe336c"
     },
     {
         "path": "page/4",
@@ -18577,7 +18837,7 @@
     {
         "path": "/page/4/index.html",
         "type": "file",
-        "md5": "51777f913a81be42f486f90dd621cae2"
+        "md5": "2e96cb78019239aef25018b6c97e6a7e"
     },
     {
         "path": "robots.txt",
@@ -18587,7 +18847,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "d9f741576c89e5c6195186f610b26403"
+        "md5": "d0cc5993880065c275f7437faed70b3a"
     },
     {
         "path": "sitemap.xsl",
@@ -18602,7 +18862,7 @@
     {
         "path": "/tag/index.html",
         "type": "file",
-        "md5": "f4799384e7dc5116366c5b1c7e27c5f7"
+        "md5": "2d0144dad4e0e632b8387a9269787396"
     },
     {
         "path": "tag/landschaften-and-natur",
@@ -18667,7 +18927,7 @@
     {
         "path": "/tag/vanlife/index.html",
         "type": "file",
-        "md5": "75ec25f6c965b88853cc4c607d8f9168"
+        "md5": "62396df4db277b8c869c6787d70cf278"
     },
     {
         "path": "track-us",
